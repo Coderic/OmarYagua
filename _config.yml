@@ -1,9 +1,9 @@
 url: "https://coderic.org"
-baseurl: "/neftaliyagua/"
+baseurl: "/OmarYagua/"
 title: "Coderic"
 network: "TEAM"
-name: "Neftalí Yagua"
-description: "Software Engineer"
-avatar_img_path: "imgs/neftali-yagua.jpg"
+name: "Omar Yagua Jr"
+description: "Vice President"
+avatar_img_path: "imgs/omar-yagua.jpg"
 permalink: pretty
 remote_theme: Coderic/coderic.org
