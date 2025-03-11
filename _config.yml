@@ -1,0 +1,9 @@
+url: "https://coderic.org"
+baseurl: "/neftaliyagua/"
+title: "Coderic"
+network: "TEAM"
+name: "Neftalí Yagua"
+description: "Software Engineer"
+avatar_img_path: "imgs/neftali-yagua.jpg"
+permalink: pretty
+remote_theme: Coderic/coderic.org
